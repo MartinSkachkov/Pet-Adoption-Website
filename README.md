@@ -1,7 +1,7 @@
 # [Pet Adoption Website 🐾](https://martinskachkov.github.io/Pet-Adoption-Website/)
 
 A simple responsive **Pet Adoption Website** built with **HTML, CSS, and JavaScript**.  
-The site displays a list of pets fetched from a JSON API and allows users to filter them by species (dogs, cats, rabbits, etc.).
+The site displays a list of pets fetched from a JSON API and allows users to filter them by species (dogs, cats, rabbits, etc.). Click the link above to see the site.
 
 ## 🚀 Features
 
